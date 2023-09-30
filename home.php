@@ -41,7 +41,7 @@
             <tr >
                 <th scope="col">Predmet</th>
                 <th scope="col">Katedra</th>    
-                <th scope="col">Sala</th>
+                <th scope="col">Sala polaganja</th>
                 <th scope="col">Datum polaganja</th>
             </tr>
             </thead>
